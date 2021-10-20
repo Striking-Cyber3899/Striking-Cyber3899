@@ -6,5 +6,3 @@
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Ansible and Ethical Hacking.</li>
 
 <li><g-emoji class="g-emoji" alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji> Looking forward to contribute to open source more.</li>
-
-<hr></hr>
